@@ -1,0 +1,11 @@
+C:\Users\ertugrul.gamgam\source\repos\Training\Training\bin\Debug\netcoreapp2.2\Training.deps.json
+C:\Users\ertugrul.gamgam\source\repos\Training\Training\bin\Debug\netcoreapp2.2\Training.runtimeconfig.json
+C:\Users\ertugrul.gamgam\source\repos\Training\Training\bin\Debug\netcoreapp2.2\Training.runtimeconfig.dev.json
+C:\Users\ertugrul.gamgam\source\repos\Training\Training\bin\Debug\netcoreapp2.2\Training.dll
+C:\Users\ertugrul.gamgam\source\repos\Training\Training\bin\Debug\netcoreapp2.2\Training.pdb
+C:\Users\ertugrul.gamgam\source\repos\Training\Training\obj\Debug\netcoreapp2.2\Training.csprojAssemblyReference.cache
+C:\Users\ertugrul.gamgam\source\repos\Training\Training\obj\Debug\netcoreapp2.2\Training.csproj.CoreCompileInputs.cache
+C:\Users\ertugrul.gamgam\source\repos\Training\Training\obj\Debug\netcoreapp2.2\Training.AssemblyInfoInputs.cache
+C:\Users\ertugrul.gamgam\source\repos\Training\Training\obj\Debug\netcoreapp2.2\Training.AssemblyInfo.cs
+C:\Users\ertugrul.gamgam\source\repos\Training\Training\obj\Debug\netcoreapp2.2\Training.dll
+C:\Users\ertugrul.gamgam\source\repos\Training\Training\obj\Debug\netcoreapp2.2\Training.pdb
