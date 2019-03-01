@@ -13,6 +13,7 @@ namespace Training
 {    
     class Program
     {
+        
         public delegate double OperationDelegate(double numn1, double numb2);
 
         public static double AddOperation(double n1, double n2)
@@ -29,6 +30,7 @@ namespace Training
 
         static void Main(string[] args)
         {
+            #region first
             Console.WriteLine("OperationDelegate1");
             OperationDelegate operationDelegate1 = AddOperation;
             Console.WriteLine(operationDelegate1(3, 7));
@@ -72,7 +74,21 @@ namespace Training
             }
 
             Console.WriteLine("Last speed = " + myCar.Speed);
-            Console.WriteLine("Mission Completed :)");
+            Console.WriteLine("First Mission Completed :)");
+            #endregion
+
+            #region second
+            Console.WriteLine("\n\n\n");
+            EventClass eventdemo = new EventClass();
+            eventdemo.MyAction += delegate (int number, int secondNumber)
+            {
+                Console.WriteLine("We have the result after calling the delegate: \nFirst number: " + number + "\nSecond number: " + secondNumber);
+            };
+
+            Console.WriteLine("The result and launch of the event is due to calling the method 'event.ReturnSum()' = " + eventdemo.ReturnSum());
+            Console.WriteLine("Second Mission Completed :)");
+            #endregion
+
 
             Console.ReadKey();
         }
